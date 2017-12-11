@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>1PMAX</title>
+    <link />
+    <description />
+    <language>es</language>
+    <item>
+      <title>telemundo 2</title>
+      <pubDate>Mon, 11 Dec 2017 01:56:24 -0500</pubDate>
+      <enclosure url="http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8 " length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>GOLF_CHANNEL_HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:20:43 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLF_CHANNEL_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>UNIVISION DEPORTES</title>
+      <pubDate>Mon, 11 Dec 2017 01:19:47 -0500</pubDate>
+      <link>UnivisionDeportesNetwork.us</link>
+      <guid isPermaLink="true">UnivisionDeportesNetwork.us</guid>
+      <enclosure url="http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>WINSPORTS_HD)</title>
+      <pubDate>Mon, 11 Dec 2017 01:18:11 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX_SPORTS_HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:15:53 -0500</pubDate>
+      <link>FoxSports.it</link>
+      <guid isPermaLink="true">FoxSports.it</guid>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX_SPORTS 2_HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:14:36 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX_SPORTS3_HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:12:45 -0500</pubDate>
+      <link>FoxSports3HD.cl</link>
+      <guid isPermaLink="true">FoxSports3HD.cl</guid>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>ESPN_3_HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:09:51 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>ESPN_2_HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:09:49 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>ESPN_HD </title>
+      <pubDate>Mon, 11 Dec 2017 01:09:49 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>ClaroSports</title>
+      <pubDate>Mon, 11 Dec 2017 01:12:46 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>NBA_TV</title>
+      <pubDate>Mon, 11 Dec 2017 01:12:46 -0500</pubDate>
+      <enclosure url="http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX FAMILY HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:07:21 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/index.m3u8&#xA;" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX FAMILY SD</title>
+      <pubDate>Mon, 11 Dec 2017 01:07:21 -0500</pubDate>
+      <link>FoxFamilyW.mx</link>
+      <guid isPermaLink="true">FoxFamilyW.mx</guid>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_FAMILY)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Fox Movies HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:05:00 -0500</pubDate>
+      <link>FOXmovies.svn</link>
+      <guid isPermaLink="true">FOXmovies.svn</guid>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FoxAction HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:01:47 -0500</pubDate>
+      <link>FoxActionHD.mx</link>
+      <guid isPermaLink="true">FoxActionHD.mx</guid>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXACTION_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX ACTION SD</title>
+      <pubDate>Mon, 11 Dec 2017 01:01:47 -0500</pubDate>
+      <link>FoxActionHD.mx</link>
+      <guid isPermaLink="true">FoxActionHD.mx</guid>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX CINEMA HD</title>
+      <pubDate>Mon, 11 Dec 2017 01:01:45 -0500</pubDate>
+      <link>FoxCinema.mx</link>
+      <guid isPermaLink="true">FoxCinema.mx</guid>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>MAX PRIME SD</title>
+      <pubDate>Mon, 11 Dec 2017 00:59:05 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>HBO PLUS SD</title>
+      <pubDate>Mon, 11 Dec 2017 00:59:04 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>CINEMA PLUS</title>
+      <pubDate>Mon, 11 Dec 2017 00:58:23 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>TBS</title>
+      <pubDate>Mon, 11 Dec 2017 00:55:55 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>ISAT</title>
+      <pubDate>Mon, 11 Dec 2017 00:55:55 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>THE FILM ZONE HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:55:54 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>CLARO CINEMA</title>
+      <pubDate>Mon, 11 Dec 2017 00:55:54 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>CINELATINO</title>
+      <pubDate>Mon, 11 Dec 2017 00:50:48 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>MULTIPREMIER)</title>
+      <pubDate>Mon, 11 Dec 2017 00:50:48 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>STUDIO UNIVERSAL</title>
+      <pubDate>Mon, 11 Dec 2017 00:50:47 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>PARAMOUNT HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:50:47 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PARAMOUNT_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>SPACE SD</title>
+      <pubDate>Mon, 11 Dec 2017 00:50:47 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>TNT SD</title>
+      <pubDate>Mon, 11 Dec 2017 00:50:46 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>GOLDEN SD</title>
+      <pubDate>Mon, 11 Dec 2017 00:42:33 -0500</pubDate>
+      <link>Golden.mx</link>
+      <guid isPermaLink="true">Golden.mx</guid>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>GOLDEN HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:42:32 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>GOLDEN PREMIER HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:42:32 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_PREMIER_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>TCM</title>
+      <pubDate>Mon, 11 Dec 2017 00:42:32 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TCM)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>CINEMA PLUS</title>
+      <pubDate>Mon, 11 Dec 2017 00:42:32 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>COMEDY CENTRAL HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:37:14 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>A&amp;E MUNDO HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:37:14 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE_MUNDO_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>ATRES SERIES</title>
+      <pubDate>Mon, 11 Dec 2017 00:37:13 -0500</pubDate>
+      <enclosure url="http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>DISNEY XD</title>
+      <pubDate>Mon, 11 Dec 2017 00:29:26 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>NICKELODEON HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:29:25 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>NICK JR</title>
+      <pubDate>Mon, 11 Dec 2017 00:29:25 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_JR)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>TEN HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:20:32 -0500</pubDate>
+      <enclosure url="http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>AZ Mundo</title>
+      <pubDate>Mon, 11 Dec 2017 00:20:31 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZMUNDO_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>H2</title>
+      <pubDate>Mon, 11 Dec 2017 00:20:31 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>RCN TELENOVELAS</title>
+      <pubDate>Mon, 11 Dec 2017 00:20:30 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_TELENOVELAS)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>TELEMUNDO</title>
+      <pubDate>Mon, 11 Dec 2017 00:20:30 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEMUNDO)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>Az Corazón</title>
+      <pubDate>Mon, 11 Dec 2017 00:12:28 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZCORAZON_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>DIA TV HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:12:27 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>THE_FILM_ZONE_HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:12:27 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>MAX_UP_HD </title>
+      <pubDate>Mon, 11 Dec 2017 00:12:26 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>MAX PRIME HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:08:01 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>HBO SIGNATURE HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:08:00 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>HBO FAMILY HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:08:00 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>HBO PLUS HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:08:00 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>HBO 2 HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:07:59 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>HBO HD </title>
+      <pubDate>Mon, 11 Dec 2017 00:06:11 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>CINEMAX HD </title>
+      <pubDate>Mon, 11 Dec 2017 00:06:10 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>GOLDEN HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:06:10 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>NICK_2 HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:06:09 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>DISNEY HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:20:32 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>DISNEY_JR</title>
+      <pubDate>Mon, 11 Dec 2017 00:06:09 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>DISCOVERY KIDS HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:01:54 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>CARTOON_NETWORK_HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:01:53 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>TOONCAST HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:01:53 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>BOOMERANGHD</title>
+      <pubDate>Mon, 11 Dec 2017 00:01:52 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>NATGEO KIDS HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:01:52 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>ANIMAL PLANET HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:57:19 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>TLC HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:57:18 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>NATGEO HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:57:14 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX LIFE HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:57:14 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX COMEDY HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:57:14 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX CLASSICS HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:52:55 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX1 HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:52:55 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>FOX HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:52:54 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>HOLA_TV_HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:52:54 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HOLA_TV_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>DHE HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:49:07 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DHE_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>GOURMET_HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:52:55 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOURMET_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>DISCOVERY WORLD HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:49:06 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>DISCOVERY THEATER HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:49:06 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_THEATER_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>DISCOVERY CHANNEL HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:41:43 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>ID Investigación Discovery HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:49:07 -0500</pubDate>
+      <enclosure url="http://bit.ly/2ySXnKB?JoCaRoIPTV.m3u8 " length="" type="" />
+      <description><![CDATA[]]></description>
+    </item>
+    <item>
+      <title>NICK 2 HD</title>
+      <pubDate>Mon, 11 Dec 2017 00:08:01 -0500</pubDate>
+      <description><![CDATA[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png">]]></description>
+    </item>
+    <item>
+      <title>HISTORY HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:49:08 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HISTORY_CHANNEL_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<img src="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0022/7859/brand.gif?itok=adCDPBrL" width=399 height=200><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/2000px-History_HD_Logo.svg.png"></a>]]></description>
+    </item>
+    <item>
+      <title>HOME &amp; HEALHT HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:41:42 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<img style="WIDTH: 419px; HEIGHT: 200px" src="http://lh3.googleusercontent.com/-elKZ8LMEEGQ/VcU9GwHRLWI/AAAAAAAAR80/OiCApVEbMTA/zrclip_004p18ba97ad.png?imgmax=800" width=524 height=167>]]></description>
+    </item>
+    <item>
+      <title>LIFETIME HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:41:41 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 364px; HEIGHT: 198px" src="http://www.corusent.com/wp-content/uploads/2015/04/Lifetime_Oxblood_RGB-1021x1024.png" width=653 height=885></p>]]></description>
+    </item>
+    <item>
+      <title>TELENOVELAS HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:41:41 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8" length="" type="" />
+      <description><![CDATA[<img src="http://4.bp.blogspot.com/-E6b2VsJG0R4/UMeB36zPIhI/AAAAAAAAAoQ/byJ8wF8ArvI/s1600/rojo.png" width=363 height=197>]]></description>
+    </item>
+    <item>
+      <title>RCN HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:57:15 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<img style="WIDTH: 421px; HEIGHT: 167px" src="http://vertelevisor.com/imagenes/rcn-television.jpg" width=1197 height=984>]]></description>
+    </item>
+    <item>
+      <title>DEPELICULA HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:41:40 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/Stream(01)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 379px; HEIGHT: 194px" src="http://img2.wikia.nocookie.net/__cb20141115205529/lumix/images/8/8e/De_Pel%C3%ADcula.png" width=503 height=194></p>]]></description>
+    </item>
+    <item>
+      <title>ESTRELLAS HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:41:40 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESTRELLAS_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 378px; HEIGHT: 197px" src="http://vignette3.wikia.nocookie.net/tvcable/images/0/02/Large.LasEstrellas_2016.png.d09fab12e8427bdc81928a4d75b51b32.png/revision/latest?cb=20161006145202&amp;path-prefix=es" width=378 height=216></p>]]></description>
+    </item>
+    <item>
+      <title>PASIONES HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:38:31 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 366px; HEIGHT: 172px" src="http://i.imgur.com/QW2p0.png" width=705 height=172></p>]]></description>
+    </item>
+    <item>
+      <title>SONY HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:38:30 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 403px; HEIGHT: 176px" src="https://dash.mediaupdate.co.za/story/image/83173/83173.jpg" width=408 height=496></p>]]></description>
+    </item>
+    <item>
+      <title>TRU TV HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:38:29 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TRU_TV_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="https://seriestv.me/wp-content/uploads/2016/11/tru-tv-channel-logo.png" width=413 height=194></p>]]></description>
+    </item>
+    <item>
+      <title>FX HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:38:29 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 417px; HEIGHT: 196px" src="https://2.bp.blogspot.com/-Nwce8VbvJFE/VtMnml3_P7I/AAAAAAAAoMA/tolY4f23ER0/s1600/FX.jpg" width=405 height=267></p>]]></description>
+    </item>
+    <item>
+      <title>SUNDANCE HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:38:28 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://www.passiondistribution.com/media/140736/logo_sundance.png" width=394 height=193></p>]]></description>
+    </item>
+    <item>
+      <title>CINECANAL HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:35:29 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 417px; HEIGHT: 197px" src="http://2.bp.blogspot.com/-S6dlrqMH98E/TZJGSrMWPsI/AAAAAAAAPQw/5UQKoyQcMfk/s1600/cinecanal-2010.png" width=756 height=822></p>]]></description>
+    </item>
+    <item>
+      <title>AXN HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:35:28 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/721_300.png" width=390 height=199></p>]]></description>
+    </item>
+    <item>
+      <title>AMC HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:35:28 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 419px; HEIGHT: 206px" src="https://pmcvariety.files.wordpress.com/2014/08/amc-logo.jpg?w=700&amp;h=393&amp;crop=1" width=543 height=312></p>]]></description>
+    </item>
+    <item>
+      <title>UNIVERSAL CHANNEL HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:35:28 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 344px; HEIGHT: 188px" src="http://www.lamac.org/res/channels/logos/_0027_universal_channel.png" width=344 height=294></p>]]></description>
+    </item>
+    <item>
+      <title>SPACE HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:35:28 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 360px; HEIGHT: 191px" src="http://videocabledolores.com.ar/wp-content/uploads/2014/12/SPACE.png" width=510 height=231></p>]]></description>
+    </item>
+    <item>
+      <title>TNT SERIES</title>
+      <pubDate>Sun, 10 Dec 2017 23:33:31 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<img style="WIDTH: 391px; HEIGHT: 197px" src="https://i.pinimg.com/originals/f5/39/c2/f539c259020997544177fbeafbce815f.jpg" width=1650 height=2248>]]></description>
+    </item>
+    <item>
+      <title>TNT HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:33:31 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://www-deadline-com.vimg.net/wp-content/uploads/2013/03/tnt1__130321184641.jpeg" width=398 height=199></p>]]></description>
+    </item>
+    <item>
+      <title>WARNER HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:30:43 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 394px; HEIGHT: 187px" src="https://allserieslinamarcela.files.wordpress.com/2009/10/080429_19.jpg" width=394 height=330></p>]]></description>
+    </item>
+    <item>
+      <title>AE HD</title>
+      <pubDate>Sun, 10 Dec 2017 23:30:42 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 409px; HEIGHT: 220px" src="https://pmcvariety.files.wordpress.com/2014/05/ae-a-and-e-logo.jpg?w=700&amp;h=393&amp;crop=1" width=512 height=294></p>]]></description>
+    </item>
+    <item>
+      <title>TELENOVELAS HD </title>
+      <pubDate>Sun, 10 Dec 2017 23:30:42 -0500</pubDate>
+      <enclosure url="http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://exorbeo.com/wp-content/uploads/2013/07/tln-na-clarotv.gif"></p>]]></description>
+    </item>
+    <item>
+      <title>Caracol</title>
+      <pubDate>Sun, 10 Dec 2017 23:29:07 -0500</pubDate>
+      <enclosure url="http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8?www.tecnotv.info?&amp;dnt=true&amp;ref=http%3A%2F%2Flive2.caracoltv.com%2FNoticias%2Fpl-ms.html" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 370px; HEIGHT: 192px" src="http://periodicoamarillo.com/wp-content/uploads/2017/03/15.jpg" width=370 height=300></p>]]></description>
+    </item>
+    <item>
+      <title>YUNA</title>
+      <pubDate>Sun, 10 Dec 2017 23:29:07 -0500</pubDate>
+      <enclosure url="http://ss9.domint.net:1986/yv_str/yuna/chunklist_w924402548.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://yunavision.com/images/yuna2sm.png" width=402 height=194></p>]]></description>
+    </item>
+    <item>
+      <title>La Voz de Maria</title>
+      <pubDate>Sun, 10 Dec 2017 23:29:06 -0500</pubDate>
+      <enclosure url="http://uni5rtmp.tulix.tv/playout2multi9/playout2multi9.stream/chunklist_w216451889.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 402px; HEIGHT: 188px" src="http://canalestvhd.com/wp-content/uploads/2017/10/La-Voz-de-Maria.jpg" width=500 height=215></p>]]></description>
+    </item>
+    <item>
+      <title>REDE NACIONAL DE NOTICIAS RNN</title>
+      <pubDate>Sun, 10 Dec 2017 23:26:55 -0500</pubDate>
+      <enclosure url="http://ss6.domint.net:2042/rnn_str/canal27/playlist.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 400px; HEIGHT: 221px" src="https://2.bp.blogspot.com/-RFcFUpCKiWg/WJLMK-lBqoI/AAAAAAAADEc/5sfcko-c1ykpjjiAI6H7k98xQQNAP0DcwCLcB/s1600/rnn8_5.png" width=1215 height=377></p>]]></description>
+    </item>
+    <item>
+      <title>Canal 25</title>
+      <pubDate>Sun, 10 Dec 2017 23:26:54 -0500</pubDate>
+      <enclosure url="http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://www.vidasocial.com.do/wp-content/uploads/2017/02/Canal-25-Santiago.jpg" width=396 height=218></p>]]></description>
+    </item>
+    <item>
+      <title>Super Canal 33</title>
+      <pubDate>Sun, 10 Dec 2017 23:26:28 -0500</pubDate>
+      <enclosure url="http://newyorkstream.ddns.net:1935/supercanalcaribe/supercanalcaribe/playlist.m3u8?wowzasessionid=1572023888" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2011/05/supercanal-1.png" width=383 height=200></p>]]></description>
+    </item>
+    <item>
+      <title>CDN Sportmax</title>
+      <pubDate>Sun, 10 Dec 2017 23:25:57 -0500</pubDate>
+      <enclosure url="http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 410px; HEIGHT: 228px" src="http://oklivetv.com/wp-content/uploads/media/6cf9e5e41c7edc57b6b7125cb0c3528f.jpeg" width=478 height=228></p>]]></description>
+    </item>
+    <item>
+      <title>CDN 37</title>
+      <pubDate>Sun, 10 Dec 2017 23:24:57 -0500</pubDate>
+      <enclosure url="http://api.new.livestream.com/accounts/15754920/events/4458460/live.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="data:image/png;base64,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" width=380 height=188></p>]]></description>
+    </item>
+    <item>
+      <title>TELEUNIVERSO</title>
+      <pubDate>Sun, 10 Dec 2017 23:24:34 -0500</pubDate>
+      <enclosure url="http://ss9.domint.net:1942/tu_str/universo/playlist.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://ndl.mgccw.com/mu3/app/20140515/02/1400101101693/icon_n/icon_xl.png" width=245 height=204></p>]]></description>
+    </item>
+    <item>
+      <title>Digital 15</title>
+      <pubDate>Sun, 10 Dec 2017 23:24:13 -0500</pubDate>
+      <enclosure url="http://api.new.livestream.com/accounts/736348/events/5551042/live.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="https://2.bp.blogspot.com/-SlhsAMIljw0/WT4Y6eJaB9I/AAAAAAAADjo/AcHj9T1i6YIYqDBxsFQVh-ISuYRY_UF1ACLcB/w1200-h630-p-k-no-nu/Digital15-228x176.png" width=409 height=195></p>]]></description>
+    </item>
+    <item>
+      <title>TeleCentro </title>
+      <pubDate>Sun, 10 Dec 2017 23:23:29 -0500</pubDate>
+      <enclosure url="http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://tvonline.linkscomdo.netdna-cdn.com/images/sobipro/entries/18/img_telecentro-13.jpg" width=352 height=201></p>]]></description>
+    </item>
+    <item>
+      <title>Bonao-tv</title>
+      <pubDate>Sun, 10 Dec 2017 23:22:46 -0500</pubDate>
+      <enclosure url="http://ss9.domint.net:1988/btv_str/bonao/chunklist_w782883157.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://www.tv14.net/wp-content/uploads/2010/10/Bonao-TV.jpg" width=310 height=203></p>]]></description>
+    </item>
+    <item>
+      <title>Telesistemas</title>
+      <pubDate>Sun, 10 Dec 2017 23:21:59 -0500</pubDate>
+      <enclosure url="http://mek6.mekstream.com/telesistema/live/playlist.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 226px; HEIGHT: 200px" src="http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2011/04/telesistema-3-new.png" width=416 height=200></p>]]></description>
+    </item>
+    <item>
+      <title>Color Vision 9</title>
+      <pubDate>Sun, 10 Dec 2017 23:20:46 -0500</pubDate>
+      <enclosure url="http://ss6.domint.net:2102/cvh_str/colorvisionhd/chunklist_w928369526.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://www.colorvision.com.do/wp-content/uploads/2017/05/logo_-1.png" width=433 height=229></p>]]></description>
+    </item>
+    <item>
+      <title>Antena Latina 7 </title>
+      <pubDate>Sun, 10 Dec 2017 23:20:44 -0500</pubDate>
+      <enclosure url="http://d3e6ki1290i3kk.cloudfront.net/do/antena_latina.smil/playlist.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 423px; HEIGHT: 207px" src="http://cdn.antena7.com.do/sites/common/img/logo_antena7.png" width=347 height=141></p>]]></description>
+    </item>
+    <item>
+      <title>Telemicro </title>
+      <pubDate>Sun, 10 Dec 2017 23:18:55 -0500</pubDate>
+      <enclosure url="http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8" length="" type="" />
+      <description><![CDATA[<p align="center"><img style="WIDTH: 248px; HEIGHT: 211px" src="http://telemicro.com.do/web/wp-content/uploads/2016/01/ms-icon-310x310.png" width=235 height=234></p>]]></description>
+    </item>
+    <item>
+      <title>CERTV</title>
+      <pubDate>Sun, 10 Dec 2017 23:16:39 -0500</pubDate>
+      <enclosure url="http://45.35.46.43:1935/live/canal4/playlist.m3u8?wowzasessionid=2134113356" length="" type="" />
+      <description><![CDATA[<p align="center"><img src="http://canal4rd.com/portada//images/logos/logo-final5.jpg" width=338 height=194></p>]]></description>
+    </item>
+    <item>
+      <title>TV COTUI 31</title>
+      <pubDate>Sun, 10 Dec 2017 23:13:15 -0500</pubDate>
+      <enclosure url="http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8" length="" type="" />
+      <description><![CDATA[<img style="WIDTH: 146px; HEIGHT: 108px" src="http://www.dominicaninternet.com/uploads/avatarServicio/879.jpg" width=188 height=397>]]></description>
+    </item>
+  </channel>
+</rss>
